@@ -48,4 +48,7 @@ for epoch in range(num_epochs):
 
 #finished indication
 print('Training finished')
+<<<<<<< HEAD
 >>>>>>> 6f48284 (added __init__.py)
+=======
+>>>>>>> 5056bc67f52a7c9c88fa20cdbb28439c06fe7f33
